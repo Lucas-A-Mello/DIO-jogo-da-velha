@@ -1,2 +1,3 @@
-# DIO-jogo-da-velha
-Jogo da Velha para o curso da DIO - Bootcamp Órbi
+# Jogo da Velha para o curso da DIO - Bootcamp Órbi
+
+<img src="imagens/jogo-velha.png" alt="ilustração do jogo da velha">
